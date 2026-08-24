@@ -12,3 +12,6 @@ cron/*.log
 .idea/
 Thumbs.db
 .DS_Store
+
+/admin/employee_edit.php
+/admin/employee_delete.php
