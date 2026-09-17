@@ -294,7 +294,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <link rel="stylesheet" href="../style/home_page.css">
     <link rel="stylesheet" href="../style/book_appointment.css">
 
-    <title>Termin buchen - Bella Beauty</title>
+    <title>Termin buchen - salon XX Beauty</title>
 </head>
 
 <body>
