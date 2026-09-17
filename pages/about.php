@@ -45,7 +45,7 @@ try {
     <main>
 
         <section class="about-hero">
-            <h1>Über Bella Beauty</h1>
+            <h1>Über salon XX Beauty</h1>
             <p>Ihr Zentrum für professionelle Kosmetik und Wellness – seit vielen Jahren mit Herz und Handwerk für Ihre Schönheit im Einsatz.</p>
         </section>
 
@@ -54,7 +54,7 @@ try {
 
             <div class="about-story__text">
                 <h2>Unsere Geschichte</h2>
-                <p>Bella Beauty wurde mit einer klaren Vision gegründet: ein Ort zu schaffen, an dem sich jede und jeder rundum wohlfühlt und mit strahlender Ausstrahlung nach Hause geht.</p>
+                <p>salon XX Beauty wurde mit einer klaren Vision gegründet: ein Ort zu schaffen, an dem sich jede und jeder rundum wohlfühlt und mit strahlender Ausstrahlung nach Hause geht.</p>
                 <p>Was als kleines Studio begann, ist heute ein etabliertes Team aus erfahrenen Spezialistinnen und Spezialisten für Haare, Gesicht, Körper und Wellness.</p>
                 <p>Unser Anspruch bleibt derselbe wie am ersten Tag: höchste Qualität, persönliche Beratung und eine Atmosphäre zum Entspannen.</p>
             </div>
